@@ -1,0 +1,2 @@
+# tempes
+this tea testnet
